@@ -145,6 +145,9 @@ body{
     text-align: center;
     cursor: pointer;
     outline:none;
+    border: none;
+    background-color: transparent;
+    color: #175199;
 
 }
 .main_list_topic-RichContent{
